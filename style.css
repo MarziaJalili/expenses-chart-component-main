@@ -262,8 +262,11 @@ section {
         }
     }
 
-    .total-price {
-        font-size: 3rem;
+    .amount {
+        .total-price {
+            font-size: 3rem;
+        }
+
     }
 }
 
